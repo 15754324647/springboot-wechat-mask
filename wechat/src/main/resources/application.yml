@@ -1,0 +1,7 @@
+wechat:
+  appid: wx483125d1f436fbbf
+  appsecret: 78ea49f50fb5327d41a210d88c1eb47f
+  oauthUrl: https://open.weixin.qq.com/connect/oauth2/authorize
+  tokenUrl: https://api.weixin.qq.com/sns/oauth2/access_token
+  infoUrl:  https://api.weixin.qq.com/sns/userinfo
+
